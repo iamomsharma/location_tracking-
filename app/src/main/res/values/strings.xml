@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location Tracking Application</string>
+    <string name="location_list">Location List</string>
+    <string name="current_location">Current Location</string>
+    <string name="no">No</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+</resources>
